@@ -1,0 +1,45 @@
+baseURL = "https://bothell.urbanism-guide.com/"
+languageCode = "en-us"
+title = "Bothell Urbanism Guide"
+theme = "hugo-book"
+
+uglyURLs = false
+
+enableGitInfo = true
+enableEmoji = true
+
+[params]
+  description = "A practical guide for Bothell urbanists and advocates. Understand the issues, learn the terms, and show up ready to contribute."
+  goatCounterCode = "bothell-urbanism-guide"
+  BookTheme = "auto"
+  BookToC = true
+  BookSection = "*"
+  BookRepo = "https://github.com/prestomation/bothell-urbanism-guide"
+  BookEditPath = "edit/main/content"
+  BookDateFormat = "January 2, 2006"
+  BookSearch = false
+  BookComments = false
+  BookPortableLinks = true
+
+[params.bookToc]
+  startLevel = 2
+  endLevel = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+  [markup.highlight]
+    style = "github"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

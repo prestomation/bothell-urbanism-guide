@@ -1,0 +1,16 @@
+---
+title: "Blog"
+weight: 8
+bookFlatSection: true
+bookToc: false
+---
+
+# Blog
+
+Deeper dives, analysis, and updates on Bothell urbanism topics. While the rest of this site tries to be a stable reference, the blog is where we cover things that are evolving.
+
+---
+
+{{< blog-list >}}
+
+---

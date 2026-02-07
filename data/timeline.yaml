@@ -1,0 +1,176 @@
+- year: 2025
+  title: "Stride Bus Base Groundbreaking in Canyon Park"
+  description: "Sound Transit breaks ground on a $274 million electric bus operations and maintenance facility in Canyon Park Business Center. The 10-acre facility will initially house 48 battery-electric buses, expandable to 120, supporting the Stride S2 and S3 BRT lines."
+  legacy: "The bus base is the largest single Sound Transit investment in Bothell and anchors the city's role as a regional BRT hub. It brings construction jobs and signals long-term transit commitment to the area."
+  sources:
+    primary:
+      name: "Sound Transit"
+      url: "https://www.soundtransit.org/system-expansion/stride-bus-rapid-transit"
+    secondary:
+      name: "The Urbanist"
+      url: "https://www.theurbanist.org/2025/08/16/sound-transit-breaks-ground-on-stride-bus-base-in-bothell/"
+
+- year: 2025
+  title: "BAT Lanes Open on SR 522"
+  description: "Sound Transit opens Business Access and Transit (BAT) lanes on SR 522 in Bothell, giving buses priority over general traffic ahead of the Stride S3 line's full opening."
+  legacy: "The BAT lanes provide immediate transit speed improvements and demonstrate the infrastructure being built for BRT service. They're the first visible sign of the Stride investment on Bothell's streets."
+  sources:
+    primary:
+      name: "Sound Transit"
+      url: "https://www.soundtransit.org/get-to-know-us/news-events/news-releases/passengers-can-enjoy-extra-fast-service-thanks-to-new-bus"
+
+- year: 2024
+  title: "Imagine Bothell Comprehensive Plan Approved"
+  description: "On December 10, the Bothell City Council approves the Imagine Bothell Comprehensive Plan periodic update, the state-mandated 10-year update under the Growth Management Act. The plan identifies a need for 12,782 new homes over 20 years and allows significantly more density across the city, including middle housing in residential zones and increased building heights in mixed-use areas."
+  legacy: "This is the most significant change to Bothell's land use framework in decades. It opens formerly single-family areas to duplexes, townhouses, and multiplexes, and sets the stage for transit-oriented development around future BRT stations."
+  sources:
+    primary:
+      name: "City of Bothell"
+      url: "https://www.bothellwa.gov/CivicAlerts.aspx?AID=620"
+    secondary:
+      name: "PSRC Certification"
+      url: "https://www.psrc.org/media/2537"
+
+- year: 2024
+  title: "New Traffic Signals at I-405/SR 522 Interchange"
+  description: "WSDOT activates new traffic signals at the I-405/SR 522 interchange in Bothell as part of the $834 million I-405/Brickyard to SR 527 improvement project, which includes express toll lanes, Stride BRT stations, and direct access ramps."
+  legacy: "The interchange reconstruction reshapes the eastern edge of Bothell. When complete in 2028, it will include new BRT stations connecting Stride S2 and S3 lines at the future Bothell/Woodinville Transit Center."
+  sources:
+    primary:
+      name: "WSDOT"
+      url: "https://wsdot.wa.gov/about/news/2025/new-traffic-signals-coming-sr-522-support-i-405-expansion-bothell"
+    secondary:
+      name: "WSDOT Project Page"
+      url: "https://wsdot.wa.gov/construction-planning/search-projects/i-405sr-522-vicinity-sr-527-express-toll-lanes-improvement-project"
+
+- year: 2023
+  title: "Citywide Bike Plan Adopted"
+  description: "Bothell adopts a comprehensive Citywide Bike Plan focused on building a network accessible to casual and less-confident riders, providing safe connections for multimodal travel, and connecting neighborhoods to transit, employment, schools, and recreation."
+  legacy: "The bike plan represents Bothell's acknowledgment of its transition from a predominantly motorized vehicle-only community to a multimodal community. It provides the long-term vision for bike infrastructure investment."
+  sources:
+    primary:
+      name: "City of Bothell"
+      url: "https://www.bothellwa.gov/1415/Bike-Plan"
+    secondary:
+      name: "The Urbanist"
+      url: "https://www.theurbanist.org/2023/01/23/bothell-finds-its-long-term-vision-for-a-citywide-bike-plan/"
+
+- year: 2023
+  title: "Washington Passes Middle Housing and ADU Reform"
+  description: "The Washington State Legislature passes HB 1110 (middle housing) and HB 1337 (ADU reform), requiring cities like Bothell to allow duplexes and other middle housing types in residential zones and permit at least two ADUs per lot with fewer restrictions."
+  legacy: "These laws effectively end exclusive single-family zoning statewide. Bothell developed specific code amendments to implement them, allowing a broader menu of housing types while maintaining existing single-family development rights."
+  sources:
+    primary:
+      name: "WA Legislature: HB 1110"
+      url: "https://app.leg.wa.gov/billsummary?BillNumber=1110&Year=2023"
+    secondary:
+      name: "Sightline Institute"
+      url: "https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/"
+
+- year: 2019
+  title: "Swift Green Line Opens"
+  description: "Community Transit launches the Swift Green Line BRT along SR 527, running from Boeing Everett to Canyon Park Park & Ride in Bothell with 10-minute weekday frequency. It's Bothell's first BRT service."
+  legacy: "The Swift Green Line demonstrated that BRT could work in Bothell's suburban corridors and built the foundation for the planned extension into Downtown Bothell and UW Bothell by 2031."
+  sources:
+    primary:
+      name: "Community Transit"
+      url: "https://www.communitytransit.org/maps-and-schedules/maps-and-schedules-by-route"
+
+- year: 2016
+  title: "Sound Transit 3 Approved"
+  description: "Regional voters approve ST3, a $54 billion transit expansion plan that includes Stride BRT along SR 522 (S3 line) and I-405 (S2 line), both serving Bothell. The plan also includes a new bus operations and maintenance facility in the Canyon Park area."
+  legacy: "ST3 committed the region to building BRT infrastructure in Bothell, transforming the city's transit future. The investment triggered planning for transit-oriented development around future stations."
+  sources:
+    primary:
+      name: "Sound Transit: ST3 Plan"
+      url: "https://www.soundtransit.org/get-to-know-us/documents-reports/sound-transit-3"
+    secondary:
+      name: "Sound Transit: Our History"
+      url: "https://www.soundtransit.org/get-to-know-us/our-history"
+
+- year: 2016
+  title: "Mercantile Building Fire"
+  description: "On July 22, a major fire at the Mercantile Building damages or closes 20+ businesses including the Bothell Mall. The state provides $4.7 million in aid for recovery."
+  legacy: "The fire accelerated changes already underway in downtown Bothell's commercial landscape, clearing the way for new development and reshaping the retail character of the area."
+  sources:
+    primary:
+      name: "City of Bothell"
+      url: "https://www.bothellwa.gov/"
+
+- year: 2014
+  title: "King County Annexation"
+  description: "Bothell annexes an additional 1,005 acres of unincorporated King County, expanding the city's footprint further south."
+  legacy: "The annexation expanded Bothell's planning area and increased the population and tax base, adding new neighborhoods to the city's responsibility."
+  sources:
+    primary:
+      name: "Bothell, Washington - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Bothell,_Washington"
+
+- year: 2011
+  title: "SR 527 Transferred to City"
+  description: "SR 527 south of I-405 is decommissioned as a state highway and transferred to Bothell, becoming Bothell Way NE. This gives the city control over a major corridor through the heart of the community."
+  legacy: "City ownership of Bothell Way NE enabled the multimodal redesign and development that has transformed the corridor. The $63 million Bothell Way NE Multimodal Improvements project would not have been possible under state highway restrictions."
+  sources:
+    primary:
+      name: "City of Bothell"
+      url: "https://bothellwa.gov/1925/Bothell-Way-NE-Multimodal-Improvements-P"
+
+- year: 2010
+  title: "Downtown Revitalization Program Begins"
+  description: "Construction begins on a $150 million downtown redevelopment program, starting with the realignment of SR 522. The city acquires approximately 26 acres of land to enable a transformation from strip malls and auto-oriented businesses to a denser, mixed-use urban center."
+  legacy: "The downtown revitalization transformed Bothell's identity. Main Street was rebuilt as a shared space with curbless sidewalks, new mixed-use developments replaced parking lots, and the Park at Bothell Landing became a community gathering place. It proved that a suburban city could create a walkable urban core."
+  sources:
+    primary:
+      name: "City of Bothell"
+      url: "https://www.bothellwa.gov/"
+    secondary:
+      name: "The Urbanist"
+      url: "https://www.theurbanist.org/2022/07/28/ambitious-planning-and-a-decade-of-growth-are-transforming-downtown-bothell/"
+
+- year: 2000
+  title: "UW Bothell and Cascadia College Open Permanent Campus"
+  description: "UW Bothell and Cascadia Community College open at their permanent 130-acre campus on the former Boone-Truly cattle ranch. The campus includes one of the West Coast's largest wetland restoration projects (58 acres)."
+  legacy: "The campus transformed the area around Beardslee Crossing, catalyzing mixed-use development, restaurants, and housing. It brought thousands of students and staff to Bothell and established the city as an educational center. The wetland restoration demonstrated that development and environmental stewardship could coexist."
+  sources:
+    primary:
+      name: "UW Bothell History"
+      url: "https://www.uwb.edu/about/history"
+    secondary:
+      name: "HistoryLink"
+      url: "https://www.historylink.org/File/4184"
+
+- year: 1992
+  title: "Canyon Park Annexation Doubles City Size"
+  description: "Bothell annexes approximately 5.3 square miles of the Canyon Park area in Snohomish County, doubling the city's size and population. Canyon Park's high-tech and biotech corporate campuses make Bothell the 3rd largest employment center in Snohomish County."
+  legacy: "The Canyon Park annexation fundamentally changed Bothell's character, making it a dual-county city straddling King and Snohomish Counties. It brought major commercial tax base but also created the unique governance challenge of serving residents under two different county jurisdictions."
+  sources:
+    primary:
+      name: "HistoryLink"
+      url: "https://www.historylink.org/File/4187"
+
+- year: 1990
+  title: "Growth Management Act (GMA)"
+  description: "Washington State passes the Growth Management Act, requiring cities to plan for growth within urban growth boundaries and protect rural land."
+  legacy: "The GMA is why Bothell must grow up rather than out. It's the legal foundation for comprehensive planning, urban growth boundaries, and the density debates that define Bothell's urbanism today."
+  sources:
+    primary:
+      name: "WA Dept. of Commerce"
+      url: "https://www.commerce.wa.gov/growth-management/"
+
+- year: 1990
+  title: "UW Bothell Holds First Classes"
+  description: "UW Bothell holds its first classes in a local business park with 12 founding faculty members. The Washington State Legislature had approved creation of UW Bothell (and UW Tacoma) in 1989."
+  legacy: "UW Bothell grew from a handful of students in borrowed space to a campus serving thousands, becoming a major driver of economic development and community identity in Bothell."
+  sources:
+    primary:
+      name: "UW Bothell History"
+      url: "https://www.uwb.edu/about/history"
+
+- year: 1909
+  title: "City of Bothell Incorporated"
+  description: "Bothell is officially incorporated as a city, having grown from a small logging and farming community along the Sammamish River."
+  legacy: "Incorporation established Bothell's self-governance. The city would remain a small town for most of the 20th century before rapid growth and annexations transformed it into a suburban city of over 50,000."
+  sources:
+    primary:
+      name: "Bothell, Washington - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Bothell,_Washington"
