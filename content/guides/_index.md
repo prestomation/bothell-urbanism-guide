@@ -13,7 +13,9 @@ In-depth guides on specific urbanism topics in Bothell. Each guide provides back
 
 ## Available Guides
 
-*Guides are coming soon. Topics planned include transit (Stride BRT, Swift Green Line), the bike network, downtown revitalization, and more.*
+- [Downtown Revitalization]({{< relref "downtown-revitalization" >}}) -- How Bothell transformed its auto-oriented downtown into a walkable mixed-use center through a $150M public investment, including the SR 522 realignment, Main Street redesign, and over 1,000 new housing units
+
+*More guides are coming soon. Topics planned include transit (Stride BRT, Swift Green Line), the bike network, and more.*
 
 ---
 
