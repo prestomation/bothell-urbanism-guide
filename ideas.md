@@ -16,9 +16,6 @@ A focused look at Community Transit's BRT service in the Snohomish County portio
 
 ## Streets & Getting Around
 
-### Bike Network
-Bothell adopted a Citywide Bike Plan in 2023, acknowledging its transition from a "predominantly motorized vehicle-only suburban community to a multimodal community." Cover the plan's vision, existing infrastructure (Sammamish River Trail, Burke-Gilman Trail connection, North Creek Trail), planned protected bike lanes and neighborhood greenways, gaps in the network, and how bike infrastructure connects to BRT stations.
-
 ### Pedestrian Safety & Sidewalks
 Bothell has significant sidewalk gaps, especially in neighborhoods annexed from unincorporated county areas. Cover the city's sidewalk inventory, ADA compliance efforts, Safe Routes to School programs, pedestrian crossings on major arterials (SR 522, Bothell Way NE, SR 527), and how the multimodal improvement projects are adding pedestrian infrastructure.
 
@@ -28,9 +25,6 @@ The Sammamish River Trail runs through the heart of Bothell, connecting to the B
 ---
 
 ## Land Use & Development
-
-### Downtown Revitalization
-The story of how Bothell transformed its auto-oriented downtown into a walkable mixed-use center through a $150M public investment. Cover the SR 522 realignment, Main Street redesign, Park at Bothell Landing, McMenamins Anderson School, new mixed-use developments, and lessons learned about suburban-to-urban transformation. This is one of Bothell's most compelling urbanism stories.
 
 ### Canyon Park
 Bothell's other urban center -- a 5.3 square mile area annexed in 1992 that's home to major employers, the future Stride bus base, and the Canyon Park Subarea Plan. Cover the area's history as a tech/biotech hub, current development patterns, the subarea plan, and how BRT stations will reshape the area.
