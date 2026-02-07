@@ -282,7 +282,8 @@ Front matter includes:
 
 ### Creating a new topic guide
 1. Check `ideas.md` for planned guide topics and descriptions. Pick a topic from there or propose a new one.
-2. Read an existing guide to match the tone and structure
+2. After completing a guide, remove the implemented idea from `ideas.md` so it stays current.
+3. Read an existing guide to match the tone and structure
 3. Create a new file at `content/guides/topic-name.md` with the standard front matter (`title`, `weight`, `bookToc: true`)
 4. Follow the standard section structure: current state, history, city management/planning, advocacy orgs, data sources, key statistics table, related resources
 5. Research content using WebSearch; aim for a mix of government sources and journalism
