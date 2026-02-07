@@ -86,7 +86,7 @@ The regional planning and transportation organization for the four-county centra
 
 **See also:** [Comprehensive Plan](#comprehensive-plan), [GMA](#gma-growth-management-act)
 
-**Learn more:** [PSRC: Certification of Bothell 2024 Comp Plan](https://www.psrc.org/media/2537) | [PSRC: About Us](https://www.psrc.org/about)
+**Learn more:** [PSRC: Certification of Bothell 2024 Comp Plan](https://www.psrc.org/media/2537) | [PSRC: About Us](https://www.psrc.org/about-us)
 
 ---
 

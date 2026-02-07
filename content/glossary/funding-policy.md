@@ -26,7 +26,7 @@ A state program (RCW 70A.15.4000) requiring large employers to implement program
 
 **See also:** [Mode Share](/glossary/transportation/#mode-share), [VMT](/glossary/transportation/#vmt-vehicle-miles-traveled)
 
-**Learn more:** [Bothell CTR Plan 2025-2029](https://www.bothellwa.gov/DocumentCenter/View/20531/Draft-Commute-Trip-Reduction-Plan) | [WSDOT: Commute Trip Reduction](https://wsdot.wa.gov/engineering-standards/planning-guidance/commute-trip-reduction)
+**Learn more:** [Bothell CTR Plan 2025-2029](https://www.bothellwa.gov/DocumentCenter/View/20531/Draft-Commute-Trip-Reduction-Plan) | [WSDOT: Commute Trip Reduction](https://wsdot.wa.gov/business-wsdot/commute-trip-reduction-program)
 
 ---
 
@@ -48,7 +48,7 @@ A city program that gives property tax breaks to developers who include affordab
 
 **See also:** [AMI](#ami-area-median-income), [Affordable Housing](/glossary/housing-zoning/#affordable-housing)
 
-**Learn more:** [MRSC: Multifamily Tax Exemption](https://mrsc.org/explore-topics/planning/housing/multifamily-tax-exemption) | [WA Legislature: RCW 84.14](https://app.leg.wa.gov/rcw/default.aspx?cite=84.14)
+**Learn more:** [MRSC: Affordable Housing Funding Sources](https://mrsc.org/explore-topics/planning/housing/affordable-housing-funding) | [WA Legislature: RCW 84.14](https://app.leg.wa.gov/rcw/default.aspx?cite=84.14)
 
 ---
 
@@ -80,7 +80,7 @@ A special-purpose district that cities can create to fund transportation improve
 
 **See also:** [Complete Streets](/glossary/transportation/#complete-streets)
 
-**Learn more:** [MRSC: Transportation Benefit Districts](https://mrsc.org/explore-topics/transportation/funding-and-management/transportation-benefit-districts)
+**Learn more:** [MRSC: Transportation Benefit Districts](https://mrsc.org/explore-topics/finance/revenues/transportation-benefit-districts)
 
 ---
 

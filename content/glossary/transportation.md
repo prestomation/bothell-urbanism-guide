@@ -134,7 +134,7 @@ A policy commitment to eliminate all traffic fatalities and serious injuries thr
 
 **See also:** [Complete Streets](#complete-streets)
 
-**Learn more:** [WSDOT: Target Zero](https://wsdot.wa.gov/safety/target-zero) | [Vision Zero Network](https://visionzeronetwork.org/)
+**Learn more:** [WSDOT: Target Zero](https://wsdot.wa.gov/construction-planning/statewide-plans/strategic-highway-safety-plan-target-zero) | [Vision Zero Network](https://visionzeronetwork.org/)
 
 ---
 
