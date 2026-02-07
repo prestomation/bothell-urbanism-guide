@@ -41,6 +41,7 @@ bothell-urbanism-guide/
 │   └── pr-preview-cleanup.yml
 ├── hugo.toml             # Main Hugo configuration
 ├── .htmltest.yml         # Link validation config
+├── ideas.md              # High-level descriptions of planned guides
 └── README.md             # User-facing documentation
 ```
 
@@ -280,14 +281,15 @@ Front matter includes:
 5. Run `python3 scripts/validate-timeline.py` to verify order before committing
 
 ### Creating a new topic guide
-1. Read an existing guide to match the tone and structure
-2. Create a new file at `content/guides/topic-name.md` with the standard front matter (`title`, `weight`, `bookToc: true`)
-3. Follow the standard section structure: current state, history, city management/planning, advocacy orgs, data sources, key statistics table, related resources
-4. Research content using WebSearch; aim for a mix of government sources and journalism
-5. **Verify every external URL** using WebFetch or `python3 scripts/check-external-links.py` before committing
-6. Add cross-links: link to related glossary pages using `{{< relref "/glossary/category" >}}` and to other guides using `{{< relref "guide-name" >}}`
-7. Update `content/guides/_index.md` to add the new guide under "Available Guides"
-8. End the page with `*Last updated: Month Year*`
+1. Check `ideas.md` for planned guide topics and descriptions. Pick a topic from there or propose a new one.
+2. Read an existing guide to match the tone and structure
+3. Create a new file at `content/guides/topic-name.md` with the standard front matter (`title`, `weight`, `bookToc: true`)
+4. Follow the standard section structure: current state, history, city management/planning, advocacy orgs, data sources, key statistics table, related resources
+5. Research content using WebSearch; aim for a mix of government sources and journalism
+6. **Verify every external URL** using WebFetch or `python3 scripts/check-external-links.py` before committing
+7. Add cross-links: link to related glossary pages using `{{< relref "/glossary/category" >}}` and to other guides using `{{< relref "guide-name" >}}`
+8. Update `content/guides/_index.md` to add the new guide under "Available Guides"
+9. End the page with `*Last updated: Month Year*`
 
 ### Modifying styles
 1. Edit `static/css/timeline.css` — this is the single custom stylesheet for the entire site
