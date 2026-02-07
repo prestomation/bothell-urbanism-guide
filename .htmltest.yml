@@ -1,0 +1,10 @@
+DirectoryPath: "public"
+CheckInternal: true
+CheckInternalHash: true
+CheckExternal: false
+IgnoreURLs:
+  - "^mailto:"
+  - "^/pr-preview/"
+IgnoreDirectories:
+  - "pr-preview"
+OutputDir: ".htmltest"
