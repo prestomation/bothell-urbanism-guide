@@ -1,0 +1,59 @@
+/* ==========================================================================
+   Bothell Urbanism Guide — Brand Overrides
+   Pacific Northwest nature-inspired palette
+   Sammamish River, forests, and Bothell's natural setting
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Color palette
+   Forest Green #2D6A4F | River Blue #168AAD | Spring Green #52B788
+   Amber Gold #E9B44C | Light Teal #76C893
+   -------------------------------------------------------------------------- */
+:root {
+  --color-link: #2D6A4F;
+  --accent-teal: #168AAD;
+  --accent-emerald: #52B788;
+  --accent-gold: #E9B44C;
+  --accent-light-blue: #76C893;
+  --accent-gradient: linear-gradient(135deg, #2D6A4F, #168AAD);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-link: #76C893;
+    --accent-teal: #56CFE1;
+    --accent-emerald: #95D5B2;
+    --accent-gold: #FFD166;
+    --accent-light-blue: #A8DADC;
+    --accent-gradient: linear-gradient(135deg, #52B788, #56CFE1);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Dark mode overrides for hardcoded colors in framework.css
+   -------------------------------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+  .markdown table tr th {
+    background: rgba(118, 200, 147, 0.15);
+  }
+
+  body.book-kind-home .markdown > h1:first-child {
+    background: linear-gradient(135deg, #76C893, #56CFE1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Selection highlight
+   -------------------------------------------------------------------------- */
+::selection {
+  background: rgba(45, 106, 79, 0.2);
+}
+
+@media (prefers-color-scheme: dark) {
+  ::selection {
+    background: rgba(118, 200, 147, 0.25);
+  }
+}
