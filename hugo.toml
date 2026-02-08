@@ -1,7 +1,6 @@
 baseURL = "https://bothell.urbanism-guide.com/"
 languageCode = "en-us"
 title = "Bothell Urbanism Guide"
-theme = "hugo-book"
 
 uglyURLs = false
 
@@ -43,3 +42,9 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[module]
+  [[module.imports]]
+    path = "github.com/prestomation/urbanism-guide-core"
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
