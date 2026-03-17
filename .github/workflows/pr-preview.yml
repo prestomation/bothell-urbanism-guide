@@ -6,10 +6,10 @@ on:
 
 jobs:
   preview:
-    uses: prestomation/urbanism-guide-core/.github/workflows/pr-preview.yml@v0.1.0
-    with:
-      timezone: "America/Los_Angeles"
-      base_url: "https://bothell.urbanism-guide.com"
     permissions:
       contents: write
       pull-requests: write
+    uses: prestomation/urbanism-guide-core/.github/workflows/pr-preview.yml@v0.1.1
+    with:
+      timezone: "America/Los_Angeles"
+      base_url: "https://bothell.urbanism-guide.com"

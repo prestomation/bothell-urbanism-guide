@@ -7,8 +7,8 @@ on:
 
 jobs:
   deploy:
-    uses: prestomation/urbanism-guide-core/.github/workflows/deploy.yml@v0.1.0
-    with:
-      timezone: "America/Los_Angeles"
     permissions:
       contents: write
+    uses: prestomation/urbanism-guide-core/.github/workflows/deploy.yml@v0.1.1
+    with:
+      timezone: "America/Los_Angeles"
