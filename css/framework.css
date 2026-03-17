@@ -1,22 +1,21 @@
 /* ==========================================================================
-   Bothell Urbanism Guide — Custom Styles
-   Overrides and extensions for the hugo-book theme
+   Urbanism Guide — Framework Styles
+   Core component styles for the urbanism-guide platform.
+   All colors reference CSS custom properties so city repos can override
+   them via a brand.css file.
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   1. Color palette & CSS variable overrides
+   1. Default color palette (CSS custom properties)
+   City repos override these in their own brand.css
    -------------------------------------------------------------------------- */
-/* Bothell-inspired palette:
-   Forest Green #2D6A4F | River Blue #168AAD | Spring Green #52B788
-   Amber Gold #E9B44C | Light Teal #76C893
-   Inspired by the Sammamish River, Pacific NW forests, and Bothell's natural setting */
 :root {
-  --color-link: #2D6A4F;
-  --accent-teal: #168AAD;
-  --accent-emerald: #52B788;
-  --accent-gold: #E9B44C;
-  --accent-light-blue: #76C893;
-  --accent-gradient: linear-gradient(135deg, #2D6A4F, #168AAD);
+  --color-link: #0046AD;
+  --accent-teal: #00839A;
+  --accent-emerald: #A3D559;
+  --accent-gold: #FECB00;
+  --accent-light-blue: #63B1E5;
+  --accent-gradient: linear-gradient(135deg, var(--color-link), var(--accent-teal));
   --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
   --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
   --border-radius: 0.5rem;
@@ -24,12 +23,12 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-link: #76C893;
-    --accent-teal: #56CFE1;
-    --accent-emerald: #95D5B2;
-    --accent-gold: #FFD166;
-    --accent-light-blue: #A8DADC;
-    --accent-gradient: linear-gradient(135deg, #52B788, #56CFE1);
+    --color-link: #63B1E5;
+    --accent-teal: #2CC8D9;
+    --accent-emerald: #B8E07C;
+    --accent-gold: #FFD84D;
+    --accent-light-blue: #8DC8ED;
+    --accent-gradient: linear-gradient(135deg, #3D7FCC, #2DAABB);
     --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
     --card-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.4), 0 2px 4px rgba(0, 0, 0, 0.2);
   }
@@ -101,7 +100,7 @@ body.book-kind-home .markdown > h1:first-child + p + p {
   margin-bottom: 2rem;
 }
 
-/* "Who this is for" and "How to use this guide" section headings */
+/* Section headings on home page */
 body.book-kind-home .markdown > h2 {
   font-size: 1.35rem;
   font-weight: 700;
@@ -111,7 +110,7 @@ body.book-kind-home .markdown > h2 {
   margin-bottom: 1rem;
 }
 
-/* Bullet list under "Who this is for" */
+/* Bullet list on home page */
 body.book-kind-home .markdown > ul {
   padding-left: 0;
   list-style: none;
@@ -236,7 +235,7 @@ body.book-kind-home .book-columns > .flex-even p {
 
 @media (prefers-color-scheme: dark) {
   .markdown table tr th {
-    background: rgba(118, 200, 147, 0.15);
+    background: rgba(99, 177, 229, 0.15);
     color: var(--body-font-color);
     border-color: var(--gray-200);
   }
@@ -293,7 +292,7 @@ body.book-kind-home .book-columns > .flex-even p {
 }
 
 /* --------------------------------------------------------------------------
-   11. Timeline styles (enhanced)
+   11. Timeline styles
    -------------------------------------------------------------------------- */
 .timeline {
   position: relative;
@@ -308,7 +307,7 @@ body.book-kind-home .book-columns > .flex-even p {
   top: 0;
   bottom: 0;
   width: 3px;
-  background: linear-gradient(to bottom, var(--color-link), var(--accent-teal, var(--color-link)));
+  background: linear-gradient(to bottom, var(--color-link), var(--accent-teal));
   opacity: 0.25;
   border-radius: 3px;
 }
@@ -426,7 +425,7 @@ body.book-kind-home .book-columns > .flex-even p {
 }
 
 /* --------------------------------------------------------------------------
-   12. Blog list styles (enhanced)
+   12. Blog list styles
    -------------------------------------------------------------------------- */
 .blog-list {
   margin: 1rem 0;
@@ -533,7 +532,7 @@ body.book-kind-home .book-columns > .flex-even p {
 
   /* Gradient text for dark mode */
   body.book-kind-home .markdown > h1:first-child {
-    background: linear-gradient(135deg, #76C893, #56CFE1);
+    background: var(--accent-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -588,10 +587,6 @@ body.book-kind-home .book-columns > .flex-even p {
 /* --------------------------------------------------------------------------
    15. Glossary term styling
    -------------------------------------------------------------------------- */
-.markdown h3 + p,
-.markdown h3 + p + p {
-  /* Glossary terms already have good structure; just ensure spacing */
-}
 
 /* "Why it matters" / "See also" / "Learn more" bold labels */
 .markdown p > strong:first-child {
@@ -620,7 +615,7 @@ body.book-kind-home .book-columns > .flex-even p {
 }
 
 /* --------------------------------------------------------------------------
-   18. "What this is not" and closing section on homepage
+   18. Closing section on homepage
    -------------------------------------------------------------------------- */
 body.book-kind-home .markdown > hr + p {
   font-size: 0.9rem;
@@ -669,15 +664,15 @@ body.book-kind-home .markdown > hr + p {
 }
 
 /* --------------------------------------------------------------------------
-   20. Smooth scroll & selection
+   20. Selection highlight
    -------------------------------------------------------------------------- */
 ::selection {
-  background: rgba(45, 106, 79, 0.2);
+  background: rgba(0, 70, 173, 0.2);
 }
 
 @media (prefers-color-scheme: dark) {
   ::selection {
-    background: rgba(118, 200, 147, 0.25);
+    background: rgba(99, 177, 229, 0.25);
   }
 }
 
