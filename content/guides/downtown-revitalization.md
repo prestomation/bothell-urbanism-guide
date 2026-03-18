@@ -27,7 +27,7 @@ The private investment following the public infrastructure has been substantial.
 |---|---|---|
 | [Alexan Main Street](https://alexanmainstreet.com/) | 369 | Six stories, 9,800 sq ft retail, rooftop viewing deck |
 | [Six Oaks](https://www.mspgroupllc.com/places/six-oaks/) | 203 | 6,300 sq ft retail |
-| [The Junction](https://www.junctionbothellapartments.com/) | 130 | 10,000 sq ft retail, 30,000 sq ft office; 2019 Gold Nugget Award |
+| [The Junction](https://www.mspgroupllc.com/places/junction/) | 130 | 10,000 sq ft retail, 30,000 sq ft office; 2019 Gold Nugget Award |
 | [The POP Apartments](https://www.thepopbothell.com/) | 118 | Adjacent to Pop Keeney Stadium |
 | The Mercantile | 122 | Built on Main Street after recovery from 2016 fire |
 
