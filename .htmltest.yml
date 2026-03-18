@@ -5,6 +5,6 @@ CheckExternal: false
 IgnoreURLs:
   - "^mailto:"
   - "^/pr-preview/"
-IgnoreDirectories:
+IgnoreDirs:
   - "pr-preview"
 OutputDir: ".htmltest"
